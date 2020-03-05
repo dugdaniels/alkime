@@ -14,7 +14,7 @@ const style = css`
   font-family: 'IBM Plex Mono', monospace;
   display: flex;
   align-items: center;
-  padding: 40px;
+  padding: 2rem;
 `
 
 const Layout = ({ children }) => {
