@@ -6,7 +6,11 @@ import { jsx, css } from "@emotion/core"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <div>
+    <div css={css`
+      p {
+        margin: 1.25rem 0;
+      }
+    `}>
       <h1 css={css`
         font-weight: 700;
         font-size: 1rem;
