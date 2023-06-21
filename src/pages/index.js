@@ -15,8 +15,7 @@ const IndexPage = () => (
         font-weight: 700;
         font-size: 1rem;
       `}>alkime</h1>
-      <p>a digital design collaborative <br />located in charlotte, nc</p>
-      <p>(site coming soon)</p>
+      <p>a digital design collaborative <br />(site coming soon)</p>
     </div>
   </Layout>
 )
