@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { jsx, css } from "@emotion/core"
+import { jsx, css } from "@emotion/react"
 
 const IndexPage = () => (
   <Layout>

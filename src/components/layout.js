@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import PropTypes from "prop-types"
-import { jsx, css } from "@emotion/core"
+import { jsx, css } from "@emotion/react"
 
 const style = css`
   @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,700&display=swap');
